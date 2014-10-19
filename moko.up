@@ -1,0 +1,4 @@
+resource :product do |p|
+	p.integer :id
+	p.string :title
+end
